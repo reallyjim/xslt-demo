@@ -1,2 +1,2 @@
-# Xslt_Demo
+# xslt-demo
 Some practice with Xslt and C#
